@@ -2,7 +2,7 @@
 
 ## System Information
 
-Macbook Pro M1 Pro w/ Python 3.12.3
+Macbook Pro M1 Pro
 
 ## Description
 
